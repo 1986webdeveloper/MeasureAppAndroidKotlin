@@ -29,4 +29,4 @@ This demo app uses the Augmented Reality. To make this working you will require 
 <b>Output :-</b>
 
 
-![alt text](https://github.com/1986webdeveloper/DocScannerAndroidJava/blob/master/docScan.gif)
+![alt text]()
