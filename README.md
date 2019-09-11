@@ -26,7 +26,7 @@ This demo app uses the Augmented Reality. To make this working you will require 
 3. Paste all kotlin files in your project
 
 
-<b>Output :-</b>
+<b>Output :</b>
 
 
 ![alt text](https://github.com/1986webdeveloper/MeasureAppAndroidKotlin/blob/master/Measure.gif)
